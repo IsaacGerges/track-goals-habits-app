@@ -78,7 +78,7 @@ Download the app from Google Play Store:
 ## 👨‍💻 Developer
 **[IsaacGerges]**
 - GitHub: [@IsaacGerges](https://github.com/IsaacGerges)
-- LinkedIn: [IsaacGerges]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/isaac-gerges-14405022b/))
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/isaac-gerges-14405022b/)
 
 ## 📄 License
 
