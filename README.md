@@ -76,7 +76,7 @@ Download the app from Google Play Store:
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200">](https://play.google.com/store/apps/details?id=at.Joo.GoalsAndHabits)
 
 ## 👨‍💻 Developer
-**[اسمك]**
+**[IsaacGerges]**
 - GitHub: [@IsaacGerges](https://github.com/IsaacGerges)
 - LinkedIn: [IsaacGerges]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/isaac-gerges-14405022b/))
 
